@@ -1,5 +1,5 @@
 
-This cheat fork from [Trino-dev-cheat-sheet]([https://gist.github.com/findepi/04c96f0f60dcc95329f569bb0c44a0cd), and thanks a lot @[findepi](https://github.com/findepi)
+This cheat fork from [Trino-dev-cheat-sheet](https://gist.github.com/findepi/04c96f0f60dcc95329f569bb0c44a0cd), and thanks a lot @[findepi](https://github.com/findepi)
 
 #### quick build
 ```
