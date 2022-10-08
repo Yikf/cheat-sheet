@@ -1,6 +1,4 @@
 
-This cheat fork from [Trino-dev-cheat-sheet](https://gist.github.com/findepi/04c96f0f60dcc95329f569bb0c44a0cd), and thanks a lot @[findepi](https://github.com/findepi)
-
 #### quick build
 ```
 ./mvnw -pl '!:trino-server-rpm,!:trino-docs,!:trino-proxy,!:trino-verifier,!:trino-benchto-benchmarks' clean install -TC2 -nsu -DskipTests -Dmaven.javadoc.skip=true -Dmaven.source.skip=true -Dair.check.skip-all=true -Dskip.npm -Dskip.yarn
